@@ -1,1 +1,19 @@
-{"specials":[],"last_updated":"2026-02-05T08:42:40-05:00"}
+{
+  "specials": [
+    {
+      "id": "special_1770300647353",
+      "title": "Taco Tuesday Test",
+      "description": "Really good tacos",
+      "start_date": "2026-02-05",
+      "end_date": "2026-02-12",
+      "restaurant_name": "test",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-02-05T14:10:47.353Z"
+    }
+  ],
+  "last_updated": "2026-02-05T14:10:47.354Z"
+}
