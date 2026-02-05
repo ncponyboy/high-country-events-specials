@@ -1,20 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1770312837151",
-      "title": "Tacos",
-      "description": "guac",
-      "start_date": "2026-02-05",
-      "end_date": "2026-02-12",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-02-05T17:33:57.152Z"
-    },
-    {
       "id": "special_1770314775275",
       "title": "Dinner Specials- Lasagna, Louisiana Red Beans & Rice",
       "description": "Comfort food to warm you up! Lasagna comes with meat sauce and garlic bread. Also try our Louisiana Red Beans and Rice with Andouille Sausage!",
@@ -29,5 +15,5 @@
       "created_at": "2026-02-05T18:06:15.276Z"
     }
   ],
-  "last_updated": "2026-02-05T18:06:15.276Z"
+  "last_updated": "2026-02-05T19:10:43.414Z"
 }
