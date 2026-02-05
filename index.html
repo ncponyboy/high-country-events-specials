@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High Country Events - Restaurant Specials</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+            font-size: 14px;
+        }
+        
+        input, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s;
+            font-family: inherit;
+        }
+        
+        input:focus, textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+        
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 14px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            width: 100%;
+            margin-top: 10px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+        
+        .btn:active {
+            transform: translateY(0);
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+        }
+        
+        .btn-danger {
+            background: #dc3545;
+        }
+        
+        .alert {
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            display: none;
+        }
+        
+        .alert.show {
+            display: block;
+        }
+        
+        .alert-success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .alert-error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .alert-info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        
+        .specials-list {
+            margin-top: 30px;
+        }
+        
+        .special-card {
+            border: 2px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            background: #f8f9fa;
+        }
+        
+        .special-card h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .special-card p {
+            color: #666;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        
+        .special-card .dates {
+            font-size: 13px;
+            color: #999;
+            margin-top: 10px;
+        }
+        
+        .special-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        .special-actions button {
+            flex: 1;
+            padding: 8px;
+            font-size: 14px;
+        }
+        
+        .login-section {
+            max-width: 400px;
+            margin: 50px auto;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .date-inputs {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+        
+        @media (max-width: 600px) {
+            .date-inputs {
+                grid-template-columns: 1fr;
+            }
+            
+            .special-actions {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🍴 Restaurant Specials</h1>
+            <p>High Country Events Featured Specials</p>
+        </div>
+        
+        <!-- Login Section -->
+        <div id="loginSection" class="content login-section">
+            <div class="form-group">
+                <label for="haUrl">Home Assistant URL</label>
+                <input type="text" id="haUrl" placeholder="https://your-ha-instance.com">
+            </div>
+            <div class="form-group">
+                <label for="haToken">Long-Lived Access Token</label>
+                <input type="password" id="haToken" placeholder="Enter your Home Assistant token">
+            </div>
+            <button class="btn" onclick="login()">Login</button>
+            <div id="loginError" class="alert alert-error"></div>
+            
+            <div style="margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px; font-size: 13px;">
+                <strong>Setup Instructions:</strong>
+                <ol style="margin-left: 20px; margin-top: 10px;">
+                    <li>Go to your Home Assistant profile</li>
+                    <li>Scroll to "Long-Lived Access Tokens"</li>
+                    <li>Click "Create Token"</li>
+                    <li>Give it a name and copy the token</li>
+                </ol>
+            </div>
+        </div>
+        
+        <!-- Main Content -->
+        <div id="mainContent" class="content hidden">
+            <div id="alertBox" class="alert"></div>
+            
+            <!-- Add Special Form -->
+            <h2 style="margin-bottom: 20px;">Add New Special</h2>
+            <form id="specialForm">
+                <div class="form-group">
+                    <label for="title">Special Title *</label>
+                    <input type="text" id="title" required placeholder="e.g., Taco Tuesday Special">
+                </div>
+                
+                <div class="form-group">
+                    <label for="description">Description *</label>
+                    <textarea id="description" required placeholder="Describe your special..."></textarea>
+                </div>
+                
+                <div class="date-inputs">
+                    <div class="form-group">
+                        <label for="startDate">Start Date *</label>
+                        <input type="date" id="startDate" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="endDate">End Date *</label>
+                        <input type="date" id="endDate" required>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="restaurantName">Restaurant Name *</label>
+                    <input type="text" id="restaurantName" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="restaurantAddress">Address</label>
+                    <input type="text" id="restaurantAddress" placeholder="123 Main St, Boone, NC">
+                </div>
+                
+                <div class="form-group">
+                    <label for="restaurantPhone">Phone</label>
+                    <input type="tel" id="restaurantPhone" placeholder="(828) 555-1234">
+                </div>
+                
+                <div class="form-group">
+                    <label for="restaurantWebsite">Website</label>
+                    <input type="url" id="restaurantWebsite" placeholder="https://yourrestaurant.com">
+                </div>
+                
+                <div class="form-group">
+                    <label for="imageUrl">Image URL (optional)</label>
+                    <input type="url" id="imageUrl" placeholder="https://example.com/image.jpg">
+                    <small style="color: #666; font-size: 12px;">Tip: Upload image to Imgur or similar service</small>
+                </div>
+                
+                <button type="submit" class="btn">Add Special</button>
+            </form>
+            
+            <!-- Current Specials -->
+            <div class="specials-list">
+                <h2 style="margin-bottom: 20px;">Current Specials</h2>
+                <div id="specialsList" class="loading">Loading specials...</div>
+            </div>
+            
+            <button class="btn btn-secondary" onclick="logout()" style="margin-top: 30px;">Logout</button>
+        </div>
+    </div>
+    
+    <script>
+        let haUrl = localStorage.getItem('haUrl');
+        let haToken = localStorage.getItem('haToken');
+        let currentSpecials = [];
+        
+        // Check if already logged in
+        if (haUrl && haToken) {
+            showMainContent();
+            loadSpecials();
+        }
+        
+        async function login() {
+            const url = document.getElementById('haUrl').value.replace(/\/$/, '');
+            const token = document.getElementById('haToken').value;
+            
+            if (!url || !token) {
+                showError('loginError', 'Please enter both URL and token');
+                return;
+            }
+            
+            // Test the connection
+            try {
+                const response = await fetch(`${url}/api/`, {
+                    headers: {
+                        'Authorization': `Bearer ${token}`,
+                        'Content-Type': 'application/json'
+                    }
+                });
+                
+                if (response.ok) {
+                    localStorage.setItem('haUrl', url);
+                    localStorage.setItem('haToken', token);
+                    haUrl = url;
+                    haToken = token;
+                    showMainContent();
+                    loadSpecials();
+                } else {
+                    showError('loginError', 'Invalid URL or token');
+                }
+            } catch (error) {
+                showError('loginError', 'Connection error. Check your URL and network.');
+            }
+        }
+        
+        function logout() {
+            localStorage.removeItem('haUrl');
+            localStorage.removeItem('haToken');
+            haUrl = null;
+            haToken = null;
+            document.getElementById('loginSection').classList.remove('hidden');
+            document.getElementById('mainContent').classList.add('hidden');
+        }
+        
+        function showMainContent() {
+            document.getElementById('loginSection').classList.add('hidden');
+            document.getElementById('mainContent').classList.remove('hidden');
+        }
+        
+        function showAlert(message, isError = false) {
+            const alertBox = document.getElementById('alertBox');
+            alertBox.textContent = message;
+            alertBox.className = `alert ${isError ? 'alert-error' : 'alert-success'} show`;
+            setTimeout(() => alertBox.classList.remove('show'), 5000);
+        }
+        
+        function showError(elementId, message) {
+            const element = document.getElementById(elementId);
+            element.textContent = message;
+            element.classList.add('show');
+            setTimeout(() => element.classList.remove('show'), 5000);
+        }
+        
+        async function loadSpecials() {
+            try {
+                // Fetch current specials from GitHub
+                const response = await fetch('https://raw.githubusercontent.com/YOUR_USERNAME/high-country-events-specials/main/specials.json');
+                const data = await response.json();
+                currentSpecials = data.specials || [];
+                displaySpecials();
+            } catch (error) {
+                document.getElementById('specialsList').innerHTML = '<p style="color: #999;">Error loading specials</p>';
+            }
+        }
+        
+        function displaySpecials() {
+            const specialsList = document.getElementById('specialsList');
+            
+            if (currentSpecials.length === 0) {
+                specialsList.innerHTML = '<p style="color: #999;">No active specials</p>';
+                return;
+            }
+            
+            specialsList.innerHTML = currentSpecials.map(special => `
+                <div class="special-card">
+                    <h3>${special.title}</h3>
+                    <p><strong>${special.restaurant_name}</strong></p>
+                    <p>${special.description}</p>
+                    ${special.restaurant_address ? `<p>📍 ${special.restaurant_address}</p>` : ''}
+                    ${special.restaurant_phone ? `<p>📞 ${special.restaurant_phone}</p>` : ''}
+                    ${special.image_url ? `<p>🖼️ <a href="${special.image_url}" target="_blank">View Image</a></p>` : ''}
+                    <p class="dates">
+                        ${new Date(special.start_date).toLocaleDateString()} - 
+                        ${new Date(special.end_date).toLocaleDateString()}
+                    </p>
+                    <div class="special-actions">
+                        <button class="btn btn-danger" onclick="deleteSpecial('${special.id}')">Delete</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        document.getElementById('specialForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const newSpecial = {
+                id: `special_${Date.now()}`,
+                title: document.getElementById('title').value,
+                description: document.getElementById('description').value,
+                start_date: document.getElementById('startDate').value,
+                end_date: document.getElementById('endDate').value,
+                restaurant_name: document.getElementById('restaurantName').value,
+                restaurant_address: document.getElementById('restaurantAddress').value,
+                restaurant_phone: document.getElementById('restaurantPhone').value,
+                restaurant_website: document.getElementById('restaurantWebsite').value,
+                image_url: document.getElementById('imageUrl').value,
+                priority: 1,
+                created_at: new Date().toISOString()
+            };
+            
+            currentSpecials.push(newSpecial);
+            
+            // Save to Home Assistant
+            const success = await saveSpecials();
+            
+            if (success) {
+                showAlert('Special added successfully! Changes will appear in the app within 5 minutes.');
+                document.getElementById('specialForm').reset();
+                setDefaultDates();
+                displaySpecials();
+            } else {
+                // Remove the special we just added since save failed
+                currentSpecials.pop();
+                showAlert('Error saving special. Please try again.', true);
+            }
+        });
+        
+        async function deleteSpecial(id) {
+            if (!confirm('Are you sure you want to delete this special?')) return;
+            
+            currentSpecials = currentSpecials.filter(s => s.id !== id);
+            
+            const success = await saveSpecials();
+            
+            if (success) {
+                showAlert('Special deleted successfully!');
+                displaySpecials();
+            } else {
+                showAlert('Error deleting special', true);
+                loadSpecials(); // Reload from source
+            }
+        }
+        
+        async function saveSpecials() {
+            const data = {
+                specials: currentSpecials,
+                last_updated: new Date().toISOString()
+            };
+            
+            try {
+                // Call Home Assistant service to update the file
+                const response = await fetch(`${haUrl}/api/services/notify/github_specials`, {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${haToken}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        message: JSON.stringify(data, null, 2)
+                    })
+                });
+                
+                if (response.ok) {
+                    // Also trigger GitHub update via webhook
+                    await fetch(`${haUrl}/api/webhook/update_specials_github`, {
+                        method: 'POST',
+                        headers: {
+                            'Authorization': `Bearer ${haToken}`,
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(data)
+                    });
+                    return true;
+                }
+                return false;
+            } catch (error) {
+                console.error('Save error:', error);
+                return false;
+            }
+        }
+        
+        function setDefaultDates() {
+            const today = new Date().toISOString().split('T')[0];
+            const nextWeek = new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+            document.getElementById('startDate').value = today;
+            document.getElementById('endDate').value = nextWeek;
+        }
+        
+        // Set default dates on load
+        setDefaultDates();
+    </script>
+</body>
+</html>
