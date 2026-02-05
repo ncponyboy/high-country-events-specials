@@ -476,44 +476,52 @@
             }
         }
         
-        async function saveSpecials() {
-            const data = {
-                specials: currentSpecials,
-                last_updated: new Date().toISOString()
-            };
-            
-            try {
-                // Call Home Assistant service to update the file
-                const response = await fetch(`${haUrl}/api/services/notify/github_specials`, {
-                    method: 'POST',
-                    headers: {
-                        'Authorization': `Bearer ${haToken}`,
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({
-                        message: JSON.stringify(data, null, 2)
-                    })
-                });
-                
-                if (response.ok) {
-                    // Also trigger GitHub update via webhook
-                    await fetch(`${haUrl}/api/webhook/update_specials_github`, {
-                        method: 'POST',
-                        headers: {
-                            'Authorization': `Bearer ${haToken}`,
-                            'Content-Type': 'application/json'
-                        },
-                        body: JSON.stringify(data)
-                    });
-                    return true;
-                }
-                return false;
-            } catch (error) {
-                console.error('Save error:', error);
-                return false;
+async function saveSpecials() {
+    const data = {
+        specials: currentSpecials,
+        last_updated: new Date().toISOString()
+    };
+    
+    try {
+        // Get current file SHA from GitHub
+        const getResponse = await fetch(`https://api.github.com/repos/ncponyboy/high-country-events-specials/contents/specials.json`, {
+            headers: {
+                'Authorization': `Bearer ${haToken}`,
+                'Accept': 'application/vnd.github.v3+json'
             }
+        });
+        
+        if (!getResponse.ok) {
+            console.error('Failed to get current file');
+            return false;
         }
         
+        const currentFile = await getResponse.json();
+        const sha = currentFile.sha;
+        
+        // Update file on GitHub
+        const content = btoa(JSON.stringify(data, null, 2));
+        
+        const updateResponse = await fetch(`https://api.github.com/repos/ncponyboy/high-country-events-specials/contents/specials.json`, {
+            method: 'PUT',
+            headers: {
+                'Authorization': `Bearer ${haToken}`,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                message: 'Update specials from admin form',
+                content: content,
+                sha: sha
+            })
+        });
+        
+        return updateResponse.ok;
+    } catch (error) {
+        console.error('Save error:', error);
+        return false;
+    }
+}
         function setDefaultDates() {
             const today = new Date().toISOString().split('T')[0];
             const nextWeek = new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
