@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>High Country Events - Restaurant Specials</title>
+    <title>High Country Events - Reddog Specials</title>
     <style>
         * {
             margin: 0;
@@ -219,7 +219,7 @@
     <div class="container">
         <div class="header">
             <h1>🍴 Restaurant Specials</h1>
-            <p>High Country Events Featured Specials</p>
+            <p>High Country Events Featured</p>
         </div>
         
         <!-- Login Section -->
@@ -389,7 +389,7 @@
         async function loadSpecials() {
             try {
                 // Fetch current specials from GitHub
-                const response = await fetch('https://raw.githubusercontent.com/YOUR_USERNAME/high-country-events-specials/main/specials.json');
+                const response = await fetch('https://raw.githubusercontent.com/ncponyboy/high-country-events-specials/main/specials.json');
                 const data = await response.json();
                 currentSpecials = data.specials || [];
                 displaySpecials();
