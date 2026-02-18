@@ -1,4 +1,19 @@
 {
-  "specials": [],
-  "last_updated": "2026-02-13T21:34:39.798Z"
+  "specials": [
+    {
+      "id": "special_1771385134497",
+      "title": "Specials for the Week of February 18th",
+      "description": "Soup: Italian Chicken Soup (available in a cup or bowl)\n\nAppetizers: \n\nMini Bean & Cheese Quesadillas with Pico de Gallo and Sour Cream\n\nEggplant Rounds with Ricotta & Marinara Sauce\n\nEntrees:\n\nRed Dog Chicken Pot Pie \n\nCrown Club Marinated Steaks (Ribeye $38 or Filet Mignon $42*) with Baked Potato and Choice of Side\n\n(*So far filet's are still out of stock- we are hoping to have filets available again by Friday)\n\nLunch Specials:\nSundried Tomato, Spinach and Ricotta Grilled Cheese \n(Add chicken and/or soup!)\n\nMixed Green Italian Salad: mixed greens, marinated red onions, pepperoncini, flaked parmesan\n\nDessert: Strawberry Cheesecake (Gluten Free!) $10",
+      "start_date": "2026-02-18",
+      "end_date": "2026-02-21",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-02-18T03:25:34.497Z"
+    }
+  ],
+  "last_updated": "2026-02-18T03:25:34.497Z"
 }
