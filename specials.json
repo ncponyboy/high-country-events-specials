@@ -1,4 +1,19 @@
 {
-  "specials": [],
-  "last_updated": "2026-02-25T15:11:36.120Z"
+  "specials": [
+    {
+      "id": "special_test123",
+      "title": "Test Special",
+      "description": "Test description",
+      "start_date": "2026-02-25",
+      "end_date": "2026-03-04",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-02-25T15:19:58.157Z"
+    }
+  ],
+  "last_updated": "2026-02-25T15:19:58.157Z"
 }
