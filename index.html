@@ -485,7 +485,7 @@
                 const sha = currentFile.sha;
                 
                 // Update file on GitHub
-                const content = btoa(JSON.stringify(data, null, 2));
+                const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
                 
                 const updateResponse = await fetch('https://api.github.com/repos/ncponyboy/high-country-events-specials/contents/specials.json', {
                     method: 'PUT',
