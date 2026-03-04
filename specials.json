@@ -13,7 +13,21 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-02-25T15:27:38.299Z"
+    },
+    {
+      "id": "special_1772590790254",
+      "title": "This Week's Specials",
+      "description": "\n \nPotato Leek Soup- Sauteed leeks, creamy potatoes, and a touch of cream that is blended until velvety smooth. Cup- $6 Bowl $8\n\nBacon Jam Loaded Cheese Fries $14\nCrispy fries topped with melted cheese, generous dollops of house-made savory-sweet bacon jam, green onions, jalapenos, and sour cream\n\nLouisiana Shrimp Po'Boy $18\nClassic New Orleans sandwich served on toasted french bread, with fried shrimp, lettuce, tomato, and creamy remoulade sauce\n\nBeer Battered Fish 'n Chips $16\nCrispy battered cod filets with our signature slaw, fries, and tartar sauce\n\nBlackened Chicken or Shrimp Caesar Salad $15\nCrisp Romaine lettuce, croutons and flake parmesan tossed in our authentic Caesar dressing, topped with your choice of blackened chicken or shrimp\n\nLunch Specials- Friday & Saturday 11:00-3:00\n\nGrilled Fish Tacos \nGrilled Cod topped with shredded cabbage, pico de gallo, and jalapeno cream sauce on a corn tortilla\n\nBacon Jam Cheese Smashburger\nOur signature beef blend smashed with melted American cheese, and topped with our sweet, tangy house made bacon jam\n",
+      "start_date": "2026-03-04",
+      "end_date": "2026-03-07",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-03-04T02:19:50.254Z"
     }
   ],
-  "last_updated": "2026-02-25T15:29:38.165Z"
+  "last_updated": "2026-03-04T02:19:50.255Z"
 }
