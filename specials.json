@@ -1,20 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_test_endash",
-      "title": "Reddog Piney Creek Specials",
-      "description": "Soup\n- Creamy New England Clam Chowder\n- Salsa Verde Stacked Chicken Enchiladas – Shredded chicken\nLunch Special Fri/Sat\n- Bacon Jam Cheese Smashburger – our signature beef blend",
-      "start_date": "2026-02-25",
-      "end_date": "2026-03-01",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-02-25T15:27:38.299Z"
-    },
-    {
       "id": "special_1773198725371",
       "title": "Red Dog Weekly Specials",
       "description": "Wednesday - Saturday Dinner Specials\n\nSoup:\nIrish Vegetable ... 6 (Cup) or 8 (bowl)\nA combination of potatoes, leeks, carrots and celery\ncreates a classic vegetable soup with a smooth,\ncomforting texture.\n\nAppetizer:\nSmoked Trout Dip ... 16\nThis dip features smoked trout along with cream\ncheese mixed with fresh herbs. Served with fried\npita bread.\n\nEntrées:\n\nCorned Beef and Cabbage ... 22\nTender and juicy corned beef brisket that’s\nsimmered with pickling spices, potatoes, cabbage,\nand carrots. Served with spoon bread and house-\nmade horseradish sauce.\n\nLouisiana Shrimp or Oyster Po Boy ... 18\nClassic New Orleans sandwich served on toasted\nFrench bread, with fried shrimp or fried oysters,\nlettuce, tomato, and creamy remoulade sauce.\n\nPastrami Reuben Sandwich ... 20\nHot, hand-carved pastrami, tangy sauerkraut,\nmelted Swiss cheese, and Russian dressing on\ngrilled marbled rye bread.\n\nPasta Bolognese ... 18\nBolognese is a slowly cooked meat-based Italian\nsauce rich and velvety served with al dente pasta\nand crusty garlic bread.\n\nLunch Specials Friday and Saturday Only\n\nBeer Battered Fish Sandwich ... 15\nCod, beer battered, served on a toasted brioche\nbun with tarter sauce and coleslaw.\n\nJalapeño Popper Smashburger ... 16\nOur signature beef blend smashed and grilled with\njalapeños, topped with havarti cheese on a toasted\nbrioche bun with bacon jam and a layer of cream\ncheese, lettuce, tomato.\n\nCheesy Smashburger ... 14\nOur signature beef blend grilled with thinly sliced on-\nions until hot and bubbly. Add American cheese, then\ntopped with mustard, dill pickles, lettuce and tomato.\n\nChili Cheese Smashburger ... 15\nOur signature beef blend cheesy smash patty with\ngrilled onions topped with American cheese, a layer\nof our housemade meaty chili, more American cheese, lettuce, and tomato",
@@ -29,5 +15,5 @@
       "created_at": "2026-03-11T03:12:05.371Z"
     }
   ],
-  "last_updated": "2026-03-11T03:52:15.573Z"
+  "last_updated": "2026-03-11T03:52:24.642Z"
 }
