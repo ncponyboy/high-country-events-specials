@@ -1,20 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1774986011748",
-      "title": "Red Dog Specials",
-      "description": "Soup:\nTomato Bisque... 6 (cup) or 8 (bowl) ~ A delicious blend of fire roasted tomatoes, vegetables, spices and cream. Topped with crispy croutons.\n\nAppetizers and Salads:\n\nLoaded Deviled Eggs ... 12 ~ Classic deviled eggs, but with a twist! A creamy, savory filling topped with crispy bacon pieces, chives and a pickled jalapeño slice.\n\nFried Calamari ... 15 ~ Tender squid rings and tentacles, lightly dusted in breader, then deep-fried.\nJapanese Kani Salad ... 13 ~ Shredded imitation crab, cucumbers, crisp red peppers and crunchy toasted panko. Tossed in a creamy sesame mayonnaise dressing and served on a bed of sliced cucumbers.\n\nEntrées:\nCaptain's Seafood Platter ... 40 ~ Shrimp, flounder, oysters and clam strips, all lightly breaded and fried.\nServed with hush puppies, French fries and coleslaw.\n\nPork Ribeye ... 25 ~ Herbed, grilled pork ribeye steak topped with cranberry/jalapeño relish and served with mashed potatoes and roasted carrots & jalapeños.\n\nDessert:\nSopapillas... 8 ~ Deep fried flour tortilla triangles, dusted with cinnamon sugar, drizzled with honey and dusted with powdered sugar\n\nLUNCH SPECIALS: Friday / Saturday 11 AM-3 PM\nItalian Hero Sub (Hot or Cold) ... 16 ~ Sliced pastrami, salami, Black Forest ham and provolone cheese. Topped with lettuce, tomato, onion, hot cherry peppers, and finished with our house red wine vinaigrette.\nTomato Bisque & Grilled Cheese Sandwich ... 13 ~ Our creamy, savory tomato bisque alongside a crispy, buttery melted cheese sandwich on sourdough.",
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-04",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-03-31T19:40:11.748Z"
-    },
-    {
       "id": "special_1775610696369",
       "title": "Red Dog Piney Creek Specials",
       "description": "Soup: Zuppa Toscana ... 6 (cup) or 8 (bowl)\nA creamy Italian-American soup featuring Italian sausage, potatoes, and kale in a rich broth.\n\nAppetizers and Salads: \nCranberry Jalapeño Dip ... 12\nCranberries, spicy jalapeños, honey, scallions and\nseasonings atop warm cream cheese served with\npita bread bites.\n\nFried Calamari ... 15\nTender squid rings and tentacles, lightly breaded, then deep-fried.\n\nEntrées:\n\nCaptain’s Seafood Platter ... 40\nShrimp, flounder, oysters and clam strips, all lightly breaded and fried. Served with hushpuppies, French fries and coleslaw.\nPork Ribeye ... 25\nHerbed, grilled pork ribeye steak topped with cranberry/jalapeño relish and served with sautéed parsley buttered new potatoes and roasted carrots & jalapeños.\nLasagna ... 18\nMade with a creamy ricotta cheese mixture, savory meat sauce and mozzarella cheese. Served with garlic bread.\n\nLUNCH SPECIALS\nFriday & Saturday 11 AM-3 PM\nEgg Salad Sandwich ... 12\nChopped hard-boiled eggs mixed with mayonnaise, mustard, relish and seasonings on toasted bread. Served with chips.\nFried Buffalo Chicken Sandwich ... 13\nButtermilk, dill pickle brined chicken breast, breaded, fried, and tossed in buffalo sauce. Served on a toasted bun with dilly blue cheese\naioli and lettuce. Served with fries.\n\n\n",
@@ -43,5 +29,5 @@
       "created_at": "2026-04-14T20:16:03.371Z"
     }
   ],
-  "last_updated": "2026-04-14T20:16:03.372Z"
+  "last_updated": "2026-04-14T20:16:15.533Z"
 }
