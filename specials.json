@@ -13,7 +13,21 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-04-22T19:49:08.841Z"
+    },
+    {
+      "id": "special_1777400631805",
+      "title": "Red Dog Bar & Bistro Piney Creek Specials",
+      "description": "Appetizer\nShrimp Ceviche ... 15\nShrimp - poached, diced and marinated in lime\njuice with onions, tomatoes, avocados and cilantro.\nServed with crispy fried tortilla chips.\n\nEntrées\nSeared Ahi Tuna Rice Bowl ... 32\nSushi-grade Ahi tuna, seared and sliced, over a\nbed of seasoned rice, with steamed edamame,\ncarrots and creamy avocado. Garnished with\nseaweed salad and pickled ginger, then drizzled\nwith spicy mayo dressing.\n\nChicken Curry ... 24\nRoasted pulled chicken in a mild creamy\ncoconut curry sauce; served over rice.\n\nDessert:\nStrawberry Fool ... 10\nSliced strawberries layered with lemon curd.\nAn old English favorite - smooth, tart and sweet.\nServed with whipped cream.\n\nLUNCH SPECIALS\nFriday & Saturday 11 AM-3 PM\nGrilled Chicken Salad ... 15\nGrilled chicken breast, cheddar cheese, tomato, cucumber and croutons on mixed greens with your choice of dressing.\n\nFried Chicken/Bacon Ranch Sandwich ... 14\nButtermilk, dill pickle-brined chicken breast, battered and fried. Topped with provolone cheese, lettuce, tomato and Ranch dressing. Served on a toasted bun with fries.\n",
+      "start_date": "2026-04-29",
+      "end_date": "2026-05-09",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-04-28T18:23:51.806Z"
     }
   ],
-  "last_updated": "2026-04-22T19:49:20.465Z"
+  "last_updated": "2026-04-28T18:23:51.806Z"
 }
