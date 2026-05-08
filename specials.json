@@ -1,20 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1777400631805",
-      "title": "Red Dog Bar & Bistro Piney Creek Specials",
-      "description": "Appetizer\nShrimp Ceviche ... 15\nShrimp - poached, diced and marinated in lime\njuice with onions, tomatoes, avocados and cilantro.\nServed with crispy fried tortilla chips.\n\nEntrées\nSeared Ahi Tuna Rice Bowl ... 32\nSushi-grade Ahi tuna, seared and sliced, over a\nbed of seasoned rice, with steamed edamame,\ncarrots and creamy avocado. Garnished with\nseaweed salad and pickled ginger, then drizzled\nwith spicy mayo dressing.\n\nChicken Curry ... 24\nRoasted pulled chicken in a mild creamy\ncoconut curry sauce; served over rice.\n\nDessert:\nStrawberry Fool ... 10\nSliced strawberries layered with lemon curd.\nAn old English favorite - smooth, tart and sweet.\nServed with whipped cream.\n\nLUNCH SPECIALS\nFriday & Saturday 11 AM-3 PM\nGrilled Chicken Salad ... 15\nGrilled chicken breast, cheddar cheese, tomato, cucumber and croutons on mixed greens with your choice of dressing.\n\nFried Chicken/Bacon Ranch Sandwich ... 14\nButtermilk, dill pickle-brined chicken breast, battered and fried. Topped with provolone cheese, lettuce, tomato and Ranch dressing. Served on a toasted bun with fries.\n",
-      "start_date": "2026-04-29",
-      "end_date": "2026-05-09",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-04-28T18:23:51.806Z"
-    },
-    {
       "id": "special_1778008168662",
       "title": "Red Dog Piney Creek Specials",
       "description": "Appetizer\n\nSteamed Clams with White Wine, Garlic & Butter ... 16 \nGarlicky, buttery steamed clams with white wine, shallots, fresh parsley and lemon juice. Served with crusty bread for soaking up the juices!\n\nEntrées:\n\nLinguine with Clams \"in Bianco\" (White Clam Sauce) ... 28\nLinguine with in-shell clams, white wine, plenty of fresh garlic, lemon juice, and a hint of red pepper flakes.\nOR\nLinguine with Clams \"in Rosso\" (Red Clam Sauce) ... 28\nLinguine with in-shell clams in our savory marinara sauce with white wine, garlic and fresh parsley.\n\nShrimp Tacos (3) ... 18\nSmoky chipotle shrimp, shredded cabbage, red onion, pineapple salsa, cilantro and jalapeño cream sauce on corn tortillas.\n\nDessert:\nStrawberry Fool ... 10\nSliced strawberries layered with lemon curd. An old English favorite - smooth, tart and sweet. Served with whipped cream.\n\nLUNCH SPECIALS: Friday & Saturday 11 AM-3 PM\n\nGrilled Gyro ... 15\nSeasoned ground lamb, lettuce, tomato, onion, feta and Tzatziki sauce, wrapped in a warm pita.\n\nLoaded Cheese Fries ... 14\nCrispy fries, smothered in mozzarella and cheddar cheeses, topped with our housemade bacon jam and ranch dressing.\n",
@@ -29,5 +15,5 @@
       "created_at": "2026-05-05T19:09:28.662Z"
     }
   ],
-  "last_updated": "2026-05-08T20:04:29.991Z"
+  "last_updated": "2026-05-08T20:04:36.797Z"
 }
