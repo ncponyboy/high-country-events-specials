@@ -1,20 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1776887348840",
-      "title": "Red Dog Piney Creek Specials",
-      "description": "\nAppetizer\nPork Sliders ... 13\n3 brioche slider buns, loaded with our slow cooked pulled pork in a vinegar based sauce; topped with housemade coleslaw.\n\nEntrées:\nChicken Satay ... 25\nChicken thighs marinated in coconut milk, skewered and grilled, on a bed of mildly spicy peanut sauced linguine noodles. Garnished with snow peas, shaved carrots and cucumbers.\n\nPan Seared Rainbow Trout ... 27\nTrout, seasoned with Italian herbs then pan seared in garlic lemon butter sauce, served with fingerling potatoes and grilled asparagus.\n\nDessert:\nStrawberry Fool ... 10\nSliced strawberries layed with lemon curd. An old English favorite, smooth, tart and sweet, served with fresh whipped cream.\n\nLUNCH SPECIALS\nFriday & Saturday 11 AM-3 PM\n\nHot Italian Hero/Sub ... 16\nSliced pastrami, salami, Black Forest ham and provolone topped with lettuce, tomato, onion tossed in our housemade red wine vinaigrette and hot cherry peppers. Served with fries.\n\nKyler's Jalapeño-Onion Smashburger ... 16\nOur signature beef blend, smashed and topped with grilled jalapeños, onions and a smidge of house BBQ sauce. Topped with pepper jack cheese on a toasteed brioche bun with Red Dog burger sauce, lettuce and tomato.",
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-29",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-04-22T19:49:08.841Z"
-    },
-    {
       "id": "special_1777400631805",
       "title": "Red Dog Bar & Bistro Piney Creek Specials",
       "description": "Appetizer\nShrimp Ceviche ... 15\nShrimp - poached, diced and marinated in lime\njuice with onions, tomatoes, avocados and cilantro.\nServed with crispy fried tortilla chips.\n\nEntrées\nSeared Ahi Tuna Rice Bowl ... 32\nSushi-grade Ahi tuna, seared and sliced, over a\nbed of seasoned rice, with steamed edamame,\ncarrots and creamy avocado. Garnished with\nseaweed salad and pickled ginger, then drizzled\nwith spicy mayo dressing.\n\nChicken Curry ... 24\nRoasted pulled chicken in a mild creamy\ncoconut curry sauce; served over rice.\n\nDessert:\nStrawberry Fool ... 10\nSliced strawberries layered with lemon curd.\nAn old English favorite - smooth, tart and sweet.\nServed with whipped cream.\n\nLUNCH SPECIALS\nFriday & Saturday 11 AM-3 PM\nGrilled Chicken Salad ... 15\nGrilled chicken breast, cheddar cheese, tomato, cucumber and croutons on mixed greens with your choice of dressing.\n\nFried Chicken/Bacon Ranch Sandwich ... 14\nButtermilk, dill pickle-brined chicken breast, battered and fried. Topped with provolone cheese, lettuce, tomato and Ranch dressing. Served on a toasted bun with fries.\n",
@@ -43,5 +29,5 @@
       "created_at": "2026-05-05T19:09:28.662Z"
     }
   ],
-  "last_updated": "2026-05-05T19:09:28.662Z"
+  "last_updated": "2026-05-08T20:04:29.991Z"
 }
