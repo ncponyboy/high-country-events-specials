@@ -1,20 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1779245750306",
-      "title": "Red Dog Bar & Bistro Piney Creek",
-      "description": "Linguine Alfredo...\nA house-made creamy garlic Alfredo sauce on a bed of linguini. Served with garlic bread and choice of chicken or shrimp\n\nWedge Salad ... 12\nA crisp quarter-head of iceberg lettuce topped with creamy blue cheese ranch dressing, crispy bacon, diced tomatoes, and blue cheese crumbles.\n\nStrawberry Shortcake ... 10\nFlaky shortcake topped with sweetened strawberries and whipped cream. Just like Grandma used to make.",
-      "start_date": "2026-05-20",
-      "end_date": "2026-05-23",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-05-20T02:55:50.306Z"
-    },
-    {
       "id": "special_1779824871301",
       "title": "Red Dog Bar & Bistro Piney Creek",
       "description": "Appetizer:\nBurrata Cheese & Roasted Heiroom Tomatoes ... 16\nRoasted heirloom tomatoes, basil and creamy burrata\ncheese drizzled with balsamic fig glaze, served with\ntoasted crostini.\n\nEntrées:\nMaryland Crab Cakes ... 45\nLump crab cake Maryland style, served with grilled\nfingerling potatoes and roasted asparagus.\n\nPasta with Mussels & Garlic White Wine Sauce ... 28\nMussels in garlicky white wine sauce served over linguine\nwith crusty garlic bread.\n\nDessert:\nStrawberry Tiramisu ... 10\nLayers of ladyfingers, cream cheese, whipped cream\nand fresh strawberries..\n\nLUNCH SPECIAL: Friday & Saturday 11 AM-3 PM\n\nCrab Cake Sandwich ... 24\nPan-fried crab cake, on a toasted brioche bun,\nlettuce, tomato, with tangy housemade remoulade\nsauce. Served with fries.\n\n“Coney Island “ Dog ... 13\nAn all-beef, Nathan’s dog, in a steamed bun\ntopped with chili, yellow mustard, and finely\nchopped raw onions. Served with fries.\n\n“New York Style”Dog ... 13\nAn all-beef, Nathan’s dog, in a steamed bun, topped with tangy sauerkraut and spicy brown mustard. Served with fries.\n",
@@ -29,5 +15,5 @@
       "created_at": "2026-05-26T19:47:51.302Z"
     }
   ],
-  "last_updated": "2026-05-26T19:47:51.302Z"
+  "last_updated": "2026-05-26T19:47:59.481Z"
 }
