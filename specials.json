@@ -1,4 +1,19 @@
 {
-  "specials": [],
-  "last_updated": "2026-06-02T19:11:40.002Z"
+  "specials": [
+    {
+      "id": "special_1780427503549",
+      "title": "Red Dog Piney Creek Specials",
+      "description": "Appetizers:\n\nBurrata Cheese & Roasted Heirloom Tomatoes.\nCreamy burrata cheese, covered with roasted heirloom\ntomatoes, basil and drizzled with balsamic fig glaze. Served\nwith toasted crostini ...16\n\nCowboy Caviar.\nBlack eyed peas, black beans, tomatoes, onion, corn and\ncilantro, in a bright, tangy dressing. Served with crispy tortilla\nchips ... 13\n\nEntrées:\n\nBaby Back Rribs.\nJuicy, fall-off-the-bone baby back ribs slathered in our house\nmade BBQ sauce. Served with baked beans, cole slaw and\nfries … half rack 32 … whole rack 42\n\nMaryland Crab Cakes.\nCrab cakes Maryland style, served on a bed of lemon caper\npasta with roasted asparagus ... 45\n\nGrilled Portabella Mushroom Burger.\nPortabella mushroom cap marinated, grilled, then topped\nwith melted provolone cheese, grilled onions, tomato,\nspinach, and avocado spread. Served with fries …16\n\nDessert:\nStrawberry Tiramisu. Layers of ladyfingers, cream cheese, whipped cream\nand fresh strawberries ... 10\n\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\n\n“2 Dog Deal”. 2 all-beef, Nathan’s dogs, in\nsteamed buns topped with chili, slaw, yellow\nmustard, and finely chopped raw onions.\nServed with fries ... 13\n\nKyler’s Jalapeño Onion Smashburger. Our\nsignature beef blend smashed, topped with\ngrilled jalapeños, onions, a smidge of house\nBBQ sauce, pepper jack cheese, Red Dog burger\nsauce, lettuce and tomato. Served with fries …16",
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-14",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-06-02T19:11:43.549Z"
+    }
+  ],
+  "last_updated": "2026-06-02T19:11:43.549Z"
 }
