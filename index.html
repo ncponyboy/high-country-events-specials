@@ -286,6 +286,12 @@
                     <input type="url" id="restaurantWebsite" value="https://www.reddognc.com/piney-creek-location.php" readonly style="background: #f0f0f0;">
                 </div>
                 
+                
+                <div class="form-group">
+                    <label for="restaurantHours">Restaurant Hours</label>
+                    <input type="text" id="restaurantHours" value="Wed &amp; Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm" style="background: #f0f0f0;">
+                    <small style="color: #666; font-size: 12px;">Update this when hours change</small>
+                </div>
                 <div class="form-group">
                     <label for="imageUrl">Image URL (optional)</label>
                     <input type="url" id="imageUrl" placeholder="https://example.com/image.jpg">
@@ -398,6 +404,7 @@
                     <p>${special.description}</p>
                     ${special.restaurant_address ? `<p>📍 ${special.restaurant_address}</p>` : ''}
                     ${special.restaurant_phone ? `<p>📞 ${special.restaurant_phone}</p>` : ''}
+                    ${special.restaurant_hours ? `<p>🕐 ${special.restaurant_hours}</p>` : ''}
                     ${special.image_url ? `<p>🖼️ <a href="${special.image_url}" target="_blank">View Image</a></p>` : ''}
                     <p class="dates">
                         ${new Date(special.start_date).toLocaleDateString()} - 
@@ -423,6 +430,7 @@
                 restaurant_address: document.getElementById('restaurantAddress').value,
                 restaurant_phone: document.getElementById('restaurantPhone').value,
                 restaurant_website: document.getElementById('restaurantWebsite').value,
+                restaurant_hours: document.getElementById('restaurantHours').value,
                 image_url: document.getElementById('imageUrl').value,
                 priority: 1,
                 created_at: new Date().toISOString()
