@@ -1,4 +1,20 @@
 {
-  "specials": [],
-  "last_updated": "2026-06-17T02:17:44.986Z"
+  "specials": [
+    {
+      "id": "special_1781662711685",
+      "title": "Red Dog Piney Creek Specials",
+      "description": "Appetizers\n- Grilled Shrimp Cocktail- Six shrimp grilled and served with spicy house-made cocktail sauce...16\n\n- Sauteed Mussels- Mussels sautéed in white wine, garlic, butter, fresh tomatoes and capers, served with crusty bread for dipping...18\n\n- Wedge Salad- crisp iceberg wedge topped with house made ranch blue cheese dressing, diced tomatoes, red onions, crispy bacon and fresh dill...16\n\nEntrees \n- Pan Seared Trout with Brown butter Caper Sauce -  served with Sautéed Garlic Green Beans and Fingerling Potatoes...32\n\n-Ribeye Steak with Bourbon Garlic Cream Sauce- Ribeye grilled, sliced and topped with  cream sauce, served with parsley buttered pasta and sauteed green beans...40\n\nLunch Specials (Available Friday, Saturday, Sunday 11am to 3pm)\n\n-Chicken fried steak and gravy with fries...14\n\n- Kyler's Smashburger-Our signature beef blend, smashed and topped with grilled jalapeños, onions and a smidge of house BBQ sauce. Topped with pepper jack cheese on a toasted brioche bun with Red Dog burger sauce,\nlettuce and tomato with fries...16\n\nDESSERT\nChocolate delight 10",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-21",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-06-17T02:18:31.685Z"
+    }
+  ],
+  "last_updated": "2026-06-17T02:18:31.686Z"
 }
