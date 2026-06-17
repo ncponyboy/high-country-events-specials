@@ -1,20 +1,4 @@
 {
-  "specials": [
-    {
-      "id": "special_1781033425251",
-      "title": "Red Dog Bar/Bistro Piney Creek Specials",
-      "description": "APPETIZERS\nLOADED BEEF & BEAN NACHOS\nCrispy corn tortilla chips layered with ground beef, black beans, Colby jack cheese, fresh Pico de Gallo, sour cream and guacamole...15\n\nSPINACH ARTICHOKE DIP\nRich, perfectly creamy and cheesy, brimmingwith spinach and artichokes. Served with fried Pita rounds... 15\n\nMAINS\nBABY BACK RIBS\nJuicy, fall-off-the-bone baby back ribs slathered in BBQ sauce, served with baked beans, Cole slaw and fries... half rack 32...whole rack 42\n\nSTEAK MILANESA NAPOLITANA\nSouth American dish with breaded beef cutlet topped with marinara sauce, sliced ham, and melted mozzarella cheese. Served with fries...28\n\nPASTA WITH CLAMSAND GARLICWHITE WINE SAUCE\nMussels in garlicky white wine sauce served over linguini with crusty garlic bread..28\n\nDESSERT SPECIAL\nSTRAWBERRYTIRAMISU\nLayers of ladyfingers, cream cheese, whipped cream and fresh strawberries...10\n\nLUNCH SPECIALS FRI/SAT/SUN 11-3PM\n\nFLOUNDER FISH SANDWICH\nFlaky flounder fillet, breaded and fried to a golden crisp, served on a toasted brioche bun, topped with slaw, tartar sauce, lettuce and tomato... 16\n\n\"2 DOG DEAL\"\nTwo all-beef, Nathan's dog, in steamed buns topped with chili, slaw, yellow mustard, and finely chopped raw onions, comes w/fries...13\n",
-      "start_date": "2026-06-10",
-      "end_date": "2026-06-14",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-06-09T19:30:25.251Z"
-    }
-  ],
-  "last_updated": "2026-06-09T19:31:10.116Z"
+  "specials": [],
+  "last_updated": "2026-06-17T02:17:44.986Z"
 }
