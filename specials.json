@@ -1,4 +1,20 @@
 {
-  "specials": [],
-  "last_updated": "2026-06-24T01:08:56.928Z"
+  "specials": [
+    {
+      "id": "special_1782263462804",
+      "title": "Red Dog Bar & Bistro Piney Creek Specials",
+      "description": "Appetizers:\n\nLoaded Beef & Bean Nachos\nCrispy corn tortilla chips layered with ground beef, black beans, colby jack cheese, fresh pico de gallo, sour cream and guacamole ... 15\n\nMediterranean Chick Pea Salad\nRoasted chick peas tossed with fresh tomatoes, crisp cucumber, bell pepper, red onion, feta, parsley and our housemade lemon herb vinaigrette... 12\nAdd a protein: Chicken...7 Shrimp...8 Salmon...12 Tofu ...5\n\nEntrées:\n\nCaptain's Platter\n7-8 oz red snapper, 3 shrimp, 3 oysters, fries and hushpuppies all fried to golden brown and served with coleslaw, tartar sauce and cocktail sauce ... 45\n\nPan Seared Mahi Mahi\nSeasoned Mahi Mahi, pan seared, served on a bed of rice and black beans. Topped with pineapple mango salsa ... 38 \n\nDessert:\nChocolate Delight\nPecan butter crust, topped with layers of cream cheese and chocolate pudding ... 10\n\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\n\nChicken Philly\nGrilled onions, green peppers, mushrooms, lettuce, tomato, mayonnaise, and provolone on a toasted roll with fries ... 15\n\n2 Ribeye Steak Tacos\nRibeye steak strips grilled with onions and peppers in flour tortillas with pico de gallo, guacamole and sour cream ... 16",
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-28",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-06-24T01:11:02.805Z"
+    }
+  ],
+  "last_updated": "2026-06-24T01:11:02.805Z"
 }
