@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1782869915639",
-      "title": "Red Dog Bar/Bistro Piney Creek Specials",
-      "description": "APPETIZERS/SALADS\n\nGUACAMOLE & CHIPS\nAvocado, onion, cilantro, jalapeño, lime and salt, served with fresh bite corn chips or our fried pita rounds...15\n\nMEDITERRANEAN CHICKPEA SALAD\nRoasted chickpeas tossed with fresh tomatoes, crisp, cucumber, bell.\npepper, red onion, feta, parsley and our house made lemon vinaigrette...12\n\nENTREES:\nSOUTHERN FRIED RED SNAPPER\nTraditional Southern style fried Red Snapper with seasoned cornmeal crust, baked beans, fries and slaw...26\n\nPAN SEARED MAHI MAHI\nMahi Mahi, seasoned and pan seared, served on a bed of black beans and rice, topped with Pineapple Mango salsa...38\n\nCOCONUT CURRIED SHRIMP\nThai-inspired shrimp curry with coconut milk, red curry paste, fresh cilantro & lime, served over rice...25\n\nLUNCH SPECIALS FRI/SAT/SUN 11-3PM\n\nCLUB SUB\nOur take on a classic club! Features roasted turkey, ham, crispy bacon, provolone cheese, lettuce, tomato, and mayonnaise...16\n\nCHICKEN PARMESAN SUB\nLightly breaded and fried chicken breast cutlet, topped with marinara sauce, melted mozzarella and parmesan cheeses, baked until bubbling...15\n\nDESSERT SPECIAL\nCHOCOLATE DELIGHT\nPecan Butter crust, topped with layers of cream cheese and chocolate pudding...10\n",
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-05",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-07-01T01:38:35.639Z"
-    },
-    {
       "id": "special_1783470031158",
       "title": "Red Dog Bar & Bistro Piney Creek",
       "description": "Appetizer:\nFried Green Tomatoes with Cajun Remoulade Sauce A classic Southern dish of green tomatoes, lightly breaded in seasoned cornmeal and pan-fried until crispy ...15\n\nEntrées:\nGrouper Fillet with Piccata Sauce\nPan-seared grouper fillet in a lemony white wine butter sauce with capers and parsley. Served over parmesan pasta with grilled asparagus... 35\n\nItalian Chicken Piccata\nPan-roasted chicken breast, finished with a delicious white wine and caper butter sauce. Served over parmesan pasta with roasted carrots and jalapeños ... 28\n\nDessert:\nBlueberry Yum Yum Cake\nSouthern icebox dessert that layers a buttery cookie crust with a fluffy, sweetened cream cheese filling and vibrant blueberry pie topping ...10\n\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\nClassic Club Sandwich\nClassic club sandwich, featuring roasted turkey, ham, crispy bacon, provolone cheese, lettuce, tomato, and mayonnaise on toast with chips ... 16\n\nClassic BLT\nAmerican classic sandwich. It consists of crispy bacon, fresh lettuce, and ripe tomato slices, layered between two pieces of toasted bread and spread with mayonnaise. Served with chips ... 15\n",
@@ -31,5 +16,5 @@
       "created_at": "2026-07-08T00:20:31.158Z"
     }
   ],
-  "last_updated": "2026-07-08T00:20:31.158Z"
+  "last_updated": "2026-07-08T00:20:38.085Z"
 }
