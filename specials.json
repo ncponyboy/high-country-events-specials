@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1783470031158",
-      "title": "Red Dog Bar & Bistro Piney Creek",
-      "description": "Appetizer:\nFried Green Tomatoes with Cajun Remoulade Sauce A classic Southern dish of green tomatoes, lightly breaded in seasoned cornmeal and pan-fried until crispy ...15\n\nEntrées:\nGrouper Fillet with Piccata Sauce\nPan-seared grouper fillet in a lemony white wine butter sauce with capers and parsley. Served over parmesan pasta with grilled asparagus... 35\n\nItalian Chicken Piccata\nPan-roasted chicken breast, finished with a delicious white wine and caper butter sauce. Served over parmesan pasta with roasted carrots and jalapeños ... 28\n\nDessert:\nBlueberry Yum Yum Cake\nSouthern icebox dessert that layers a buttery cookie crust with a fluffy, sweetened cream cheese filling and vibrant blueberry pie topping ...10\n\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\nClassic Club Sandwich\nClassic club sandwich, featuring roasted turkey, ham, crispy bacon, provolone cheese, lettuce, tomato, and mayonnaise on toast with chips ... 16\n\nClassic BLT\nAmerican classic sandwich. It consists of crispy bacon, fresh lettuce, and ripe tomato slices, layered between two pieces of toasted bread and spread with mayonnaise. Served with chips ... 15\n",
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-12",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-07-08T00:20:31.158Z"
-    },
-    {
       "id": "special_1783999840567",
       "title": "Red Dog Bar & Bistro Piney Creek Specials",
       "description": "APPETIZER/SALAD\nFRIED GREEN TOMATOES WITH CAJUN REMOULADE SAUCE\nA classic Southern dish of green tomatoes, lightly breaded in seasoned cornmeal and pan-fried until crispy....15\nMEDITERRANEAN TABBOULEH SALAD\nThis healthy Mediterranean salad is made with bulgur wheat, finely chopped parsley, mint and vegetables...12\n\nMAINS\nSNOW CRAB LEGS\nSnow crab clusters served with parsley buttered fingerling potatoes and coleslaw and drawn butter...Full pound 38 ..Half pound...24\n\nGROUPER FILET WITH PICCATA SAUCE\nPan-seared Grouper fillet in a lemony white wine butter sauce with\ncapers and parsley, served over parmesan pasta with grilled mixed vegetables ...35\n\nLUNCH SPECIALS FRI/SAT/SUN 11-3PM ONLY\nBEER BATTERED FISH AND CHIPS\nBritish pub-style, beer-battered Cod fish and crispy fries...16\nBEER BATTERED FISH SANDWICH\nCod loin, battered beer, fried to golden brown and served on a toasted\nbun with coleslaw and a homemade tartar sauce. Served with fries...15\nDESSERT SPECIAL\n\"MOM'S\" CHERRY YUM YUM CAKE\nGraham cracker crust with a fluffy, sweetened cream cheese filling and\nvibrant cherry pie topping...10",
@@ -31,5 +16,5 @@
       "created_at": "2026-07-14T03:30:40.568Z"
     }
   ],
-  "last_updated": "2026-07-14T03:30:40.569Z"
+  "last_updated": "2026-07-14T03:30:49.160Z"
 }
