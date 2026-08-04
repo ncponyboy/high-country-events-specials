@@ -14,7 +14,22 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-07-28T13:20:00.788Z"
+    },
+    {
+      "id": "special_1785885073662",
+      "title": "Red Dog Bar & Bistro Piney Creek",
+      "description": "Appetizers:\n\nBuffalo Fried Shrimp - Shrimp that are coated in seasoned flour batter, deep fried until golden and crispy, and then tossed in a spicy, buttery buffalo sauce….. 16\n\nLoaded Potato Wedges - Crispy, golden potato wedges with crisp bacon, melted cheese and a dollop of sour cream ... 14 \n\nSoup/Salad:\n\nGazpacho - A refreshing, flavor-packed Spanish chilled tomato soup made from tomatoes, cucumbers, bell peppers, garlic and olive oil. Served with toasted sourdough bread ... 10\n\nCaprese Salad - A combination of ripe, juicy heirloom tomatoes with rich, soft mozzarella cheese, fresh basil leaves, a drizzle of olive oil and sweet, tangy balsamic glaze ... 15\n\nEntrées:\n\nThai Green Curried Shrimp - A fragrant blend of green curry paste and rich coconut milk, balancing spicy notes with fresh lime, fish sauce & Thai basil served over steamed rice ... 25\n\nAuthentic Louisiana Red Beans and Rice - New Orleans red beans made with bacon, smoked ham, and smoky andouille sausage served over white rice with a side of collard greens and cornbread ... 28\n\nDessert:\nCoconut Cream Cake - Soft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut ... 10\n\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\n\nAdult Grilled Cheese & Tomato Sandwich - \"Local\"heirloom tomatoes and pimiento pepper cheese grilled to golden brown on artisan sourdough bread. Served with fries ...12\nFried Clam & Popcorn Shrimp Basket - Fried clams, popcorn shrimp and fries ... 16 Clams and fries only ...13 Popcorn shrimp only ... 15",
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-16",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-08-04T23:11:13.662Z"
     }
   ],
-  "last_updated": "2026-07-28T13:20:16.150Z"
+  "last_updated": "2026-08-04T23:11:13.662Z"
 }
