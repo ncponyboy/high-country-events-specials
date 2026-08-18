@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1786492560179",
-      "title": "Red Dog Bar & Bistro Piney Creek Specials",
-      "description": "Appetizers/Salad \nBuffalo Fried Shrimp - Shrimp that are coated in seasoned flour batter, deep fried until golden and crispy, and then tossed in a spicy, buttery buffalo sauce ...16\n\nVietnamese Spring Rolls - These fresh spring rolls are made with shrimp, vegetables, herbs and rice noodles wrapped in rice paper. Served with a peanut dipping sauce ... 16\n\nCaprese Salad - A combination of ripe, juicy local heirloom tomatoes with rich, soft mozzarella cheese, fresh basil leaves, a drizzle of olive oil and sweet, tangy balsamic glaze ...15\n\nEntrées:\n\nThai Peanut Noodles - Tender linguine noodles tossed in a rich, creamy sauce made from peanut butter, soy sauce, lime, ginger and garlic ... 22\nAdd your favorite protein! Chicken ... 7 Shrimp ... 8 Salmon ... 12 Tofu ... 5\n\nAuthentic Louisiana Red Beans and Rice - New Orleans red beans made with bacon, smoked ham, and smoky andouille sausage served over white rice with a side of collard greens and cornbread ... 28\n\nBruschetta Pasta - Penne pasta packed with fresh tomatoes, basil, garlic and olive oil. Served with garlic bread ... 20\nAdd a protein! Chicken ... 7 Shrimp ... 8 Salmon ... 12 Tofu ... 5\n\nHawaiian Pork Ribeye - 8 oz. pork ribeye, marinated and pan seared. Topped with grilled pineapple and served on jasmine rice with fire grilled corn ... 28\n\nDessert:\nCoconut Cream Cake - Soft, moist cake base soaked with sweet coconut cream and\nfinished with frosting and shredded toasted coconut ... 10",
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-16",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-08-11T23:56:00.179Z"
-    },
-    {
       "id": "special_1787083729131",
       "title": "Red Dog Bar & Bistro Piney Creek Special",
       "description": "Appetizers/Salad\nParmesan-Truffle Steak Fries - Crispy fries that are tossed with truffle oil, grated parmesan cheese, salt and chopped fresh parsley. Served with garlic aioli dipping sauce...15\nWedge Salad - Crisp wedge of iceberg lettuce topped with bacon crumbles, diced tomatoes, red onions and our housemade ranch-blue cheese dressing...13\nAdd a protein! Chicken ... 7 Shrimp...8 Salmon... 12 Tofu...5\nCaprese Salad - A combination of ripe, juicy local heirloom tomatoes with rich, soft mozzarella cheese, fresh basil leaves, a drizzle of olive oil and sweet, tangy balsamic glaze ...15\nEntrées:\nHawaiian Pork Ribeye - 8oz Pork ribeye marinated and pan seared, topped with grilled pineapple and served on jasmine rice with fire grilled corn...28\nBruschetta Pasta - Penne pasta packed with fresh tomatoes, basil, garlic and olive oil. Served with garlic bread ... 20\nAdd a protein! Chicken...7 Shrimp.. 8 Salmon... 12 Tofu... 5 Dessert.\nCoconut Cream Cake - Soft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut ... 10\nLUNCH SPECIAL\nFriday, Saturday, Sunday 11 AM-3 PM\nReuben Sandwich - Grilled sandwich made with pastrami, Swiss cheese, sauerkraut and Thousand Island dressing between slices of rye bread. Served with chips or fries ... 16",
@@ -31,5 +16,5 @@
       "created_at": "2026-08-18T20:08:49.132Z"
     }
   ],
-  "last_updated": "2026-08-18T20:08:49.132Z"
+  "last_updated": "2026-08-18T20:08:56.848Z"
 }
