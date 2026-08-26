@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1787083729131",
-      "title": "Red Dog Bar & Bistro Piney Creek Special",
-      "description": "Appetizers/Salad\nParmesan-Truffle Steak Fries - Crispy fries that are tossed with truffle oil, grated parmesan cheese, salt and chopped fresh parsley. Served with garlic aioli dipping sauce...15\nWedge Salad - Crisp wedge of iceberg lettuce topped with bacon crumbles, diced tomatoes, red onions and our housemade ranch-blue cheese dressing...13\nAdd a protein! Chicken ... 7 Shrimp...8 Salmon... 12 Tofu...5\nCaprese Salad - A combination of ripe, juicy local heirloom tomatoes with rich, soft mozzarella cheese, fresh basil leaves, a drizzle of olive oil and sweet, tangy balsamic glaze ...15\nEntrées:\nHawaiian Pork Ribeye - 8oz Pork ribeye marinated and pan seared, topped with grilled pineapple and served on jasmine rice with fire grilled corn...28\nBruschetta Pasta - Penne pasta packed with fresh tomatoes, basil, garlic and olive oil. Served with garlic bread ... 20\nAdd a protein! Chicken...7 Shrimp.. 8 Salmon... 12 Tofu... 5 Dessert.\nCoconut Cream Cake - Soft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut ... 10\nLUNCH SPECIAL\nFriday, Saturday, Sunday 11 AM-3 PM\nReuben Sandwich - Grilled sandwich made with pastrami, Swiss cheese, sauerkraut and Thousand Island dressing between slices of rye bread. Served with chips or fries ... 16",
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-23",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-08-18T20:08:49.132Z"
-    },
-    {
       "id": "special_1787707089607",
       "title": "Red Dog Bar & Bistro Piney Creek",
       "description": "APPETIZERS/SALADS\nJALEPENO POPPER DIP\nCheesy baked appetizerwith cream cheese, cheddar, bacon, and jalapenos, served with pita chips...13\nPARMESAN TRUFFLE STEAK FRIES\nCrispy fries tossed with truffle oil, grated Parmesan cheese, salt and chopped fresh parsley. Served with garlic aioli dipping sauce...15\nWEDGE SALAD\nCrisp wedge of iceberg lettuce topped with bacon crumbles, diced tomatoes, red onions and our house made Ranch Blue Cheese dressing...13 \n\nMAINS\nSHRIMP CREOLE WITH SAUSAGE\nPlump shrimp and hearty Andouille sausage in a Creole seasoned tomato sauce,\nserved over rice with a side of collard greens...25\n\nRIBEYE FAJITA TACOS\nTender, marbled ribeye steak sliced into strips, marinated, grilled and paired with charred peppers, onions, guacamole and sour cream inside warm tortillas...22\n\nLUNCH SPECIAL FRI/SAT/SUN 11-3PM ONLY\n\nREUBEN SANDWICH\nGrilled sandwich made with pastrami, Swiss cheese, sauerkraut, and house Thousand Stand dressing between slices of toasted rye bread, served with chips or fries... 15\n\nCRAB CAKE SANDWICH\nPan-fried crab cake on a toasted bun topped with lettuce, tomato, and a creamy house made rémoulade sauce. Comes with fries... 18\n\nDESSERT SPECIAL\n\nCOCONUT CREAM CAKE\nSoft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut...10\n",
@@ -31,5 +16,5 @@
       "created_at": "2026-08-26T01:18:09.608Z"
     }
   ],
-  "last_updated": "2026-08-26T01:18:09.608Z"
+  "last_updated": "2026-08-26T01:18:19.453Z"
 }
