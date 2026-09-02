@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1787707089607",
-      "title": "Red Dog Bar & Bistro Piney Creek",
-      "description": "APPETIZERS/SALADS\nJALEPENO POPPER DIP\nCheesy baked appetizerwith cream cheese, cheddar, bacon, and jalapenos, served with pita chips...13\nPARMESAN TRUFFLE STEAK FRIES\nCrispy fries tossed with truffle oil, grated Parmesan cheese, salt and chopped fresh parsley. Served with garlic aioli dipping sauce...15\nWEDGE SALAD\nCrisp wedge of iceberg lettuce topped with bacon crumbles, diced tomatoes, red onions and our house made Ranch Blue Cheese dressing...13 \n\nMAINS\nSHRIMP CREOLE WITH SAUSAGE\nPlump shrimp and hearty Andouille sausage in a Creole seasoned tomato sauce,\nserved over rice with a side of collard greens...25\n\nRIBEYE FAJITA TACOS\nTender, marbled ribeye steak sliced into strips, marinated, grilled and paired with charred peppers, onions, guacamole and sour cream inside warm tortillas...22\n\nLUNCH SPECIAL FRI/SAT/SUN 11-3PM ONLY\n\nREUBEN SANDWICH\nGrilled sandwich made with pastrami, Swiss cheese, sauerkraut, and house Thousand Stand dressing between slices of toasted rye bread, served with chips or fries... 15\n\nCRAB CAKE SANDWICH\nPan-fried crab cake on a toasted bun topped with lettuce, tomato, and a creamy house made rémoulade sauce. Comes with fries... 18\n\nDESSERT SPECIAL\n\nCOCONUT CREAM CAKE\nSoft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut...10\n",
-      "start_date": "2026-08-26",
-      "end_date": "2026-08-30",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-08-26T01:18:09.608Z"
-    },
-    {
       "id": "special_1788314552666",
       "title": "Red Dog Bar & Bistro Piney Creek",
       "description": "APPETIZERS/SALADS\nBUFFALO CHICKEN DIP\nMade with juicy, tender, shredded chicken and creamy cheese buffalo sauce with a spicy kick, baked until golden and bubbly. Served with pita chips. 14 \nASIAN CRUNCH SALAD W/GINGER LIME DRESSING\nCrunchy fresh red and green cabbage, carrots, green onion, cilantro, mint and roasted cashews is the perfect balance of crunchy, savory, and sweet. Topped with a zesty lime & sesame ginger dressing...12 (with option to add a protein)\n\nENTREES:\nAUTHENTIC NEW ORLEANS STYLE GUMBO\nMade with a dark rous, vegetables, chicken and Andouille sausage, served over rice with a side of collard greens and bread for dipping...22 (with option to add a protein)\nRIBEYE STEAK BOWL\nJuicy slices of seasoned, seared Ribeye steak, peppers and onions, served over a bed of rice and black beans, topped with Guacamole, Pico de Gallo, cheese, and a creamy cilantro lime dressing...24\nGRILLED FLOUNDER BOWL\nGrilled cumin-lime seasoned Flounder on a bed of rice and black beans, topped with Pico de Gallo, cilantro, mango pineapple salsa, and drizzled with creamy Jalapeno cream sauce dressing...25\n\"BUBBA'S\" SHRIMP BOWL\nShrimp grilled in our house-made \"Bubba's\" sauce (a chipotle, lime, garlic, tomato, BBQ sauce) with black beans and rice, Pico de Gallo, Pineapple mango salsa, cilantro. Topped with Jalapeño Cream sauce...26\n\nDESSERT SPECIAL- COCONUT CREAM CAKE \nSoft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut... 10\n\nLUNCH SPECIAL FRI/SAT/SUN 11-3PM ONLY\nREUBEN SANDWICH\nGrilled sandwich made with pastrami, Swiss cheese, sauerkraut, and house Thousand Island dressing between slices of toasted rye bread, served with chips or fries... 15\n\nSHRIMP TACOS\nShrimp grilled in our chipotle \"Bubba's\" sauce with fresh cabbage, pineapple mango salsa and Pico de Gallo, served on warm tortillas with Jalapeño cream sauce... 16\n",
@@ -31,5 +16,5 @@
       "created_at": "2026-09-02T02:02:32.666Z"
     }
   ],
-  "last_updated": "2026-09-02T02:02:32.666Z"
+  "last_updated": "2026-09-02T02:02:39.985Z"
 }
