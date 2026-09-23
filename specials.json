@@ -14,7 +14,22 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-09-15T23:58:37.527Z"
+    },
+    {
+      "id": "special_1790125666476",
+      "title": "Red Dog Bar & Bistro Piney Creek",
+      "description": "Appetizers/Salad\nMozzarella Cheese Sticks - Deep-fried until golden and crispy on the outside, with melted gooey cheese on the inside, served with marinara dipping sauce or ranch dressing ...13\nBacon-Date Goat Cheese Log - Tangy goat cheese log rolled in a mixture of chopped dates and pistachios. Topped with crispy crumbled bacon and a drizzle of honey. Served with fried pita chips ...15\nHarvest Apple Salad - Mixed greens topped with crispy diced apples, roasted carrots and sweet potatoes, candied pecans, craisins, red onion and tangy feta cheese, drizzled with a lemony maple dijon dressing ... 12\nAdd a protein! Chicken... 7 Shrimp... 8 Salmon... 12 Tofu... 5\nEntrées\nPan Seared Rainbow Trout - Pan-seared rainbow trout topped with lemon thyme herbed butter, served with crispy roasted new potatoes and tender fresh steamed broccolini ... 32\nMom's Chicken Curry - This is a flavorful dish of tender chicken, onions, garlic and warm curry spices in a rich, creamy curry sauce.\nServed over jasmine rice ... 22\nDessert\nCoconut Cream Cake - Soft, moist cake base soaked with sweet coconut cream and finished with frosting and shredded toasted coconut ... 10\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\nChicken Fingers & Fries - Housemade chicken fingers, fried to golden brown and served with crispy fries ... 13\nNathan's All Beef Hot Dogs - Nathan's hot dog in a hot toasted bun, with fries or chips... 8 for 1 dog ... or 14 for 2 dogs\n1. Classic American - yellow mustard, ketchup, onions & relish\n2. New York Style - kraut, mustard & onions\n3. Coney Island - chili, yellow mustard, diced onions\n4. Chili Cheese - chili and cheese",
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-27",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-09-23T01:07:46.476Z"
     }
   ],
-  "last_updated": "2026-09-15T23:58:48.832Z"
+  "last_updated": "2026-09-23T01:07:46.476Z"
 }
