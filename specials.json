@@ -14,7 +14,22 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-09-23T01:07:46.476Z"
+    },
+    {
+      "id": "special_1790735642016",
+      "title": "Red Dog Bar & Bistro Piney Creek Specials",
+      "description": "APPETIZERS/SALADS\nSoup of the Moment ~ FRENCH ONION SOUP\nA rich, savory broth filled with slow-caramelized sweet onions, topped with a crusty baguette slice, and finished with bubbly, melted Provolone cheese..10\n\nHARVEST APPLE SALAD\nMixed greens topped with crispy diced apples, roasted sweet potatoes, carrots, candied pecans, Craisans, red onion and tangy feta cheese, drizzled with a lemony maple Dijon dressing... 12\nAdd protein! Chicken ... 7 Shrimp ...8 Salmon... 12 Tofu ...5\n\nMAINS\nPENNE ALA VODKA\nPasta dish made with penne pasta tossed in a smooth, creamy tomato sauce infused with vodka...24\nAdd protein! Chicken ... 7 Shrimp ... 8 Salmon... 12 Tofu ... 5\n\nSHRIMP SCAMPI\nButtery lemon and garlic shrimp over linguini with tender fresh steamed broccolini and crusty bread for dipping...28\n\nLUNCH SPECIALS\nFriday, Saturday, Sunday 11 AM-3 PM\n\nPULLED PORK SANDWICH\nNorth Carolina pulled pork, slow-cooked, hand-shredded, tossed in a tangy, vinegar-based barbecue sauce served with crispy fries... 13\nPORK CARNITAS TACOS\nSlow-braised, tender pork carnitas served on warm corn tortillas, topped with fresh diced white onion, chopped cilantro, and a side of tomatillo salsa... 12\n",
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-04",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-09-30T02:34:02.016Z"
     }
   ],
-  "last_updated": "2026-09-23T01:07:59.990Z"
+  "last_updated": "2026-09-30T02:34:02.017Z"
 }
