@@ -14,7 +14,22 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-10-07T01:30:07.066Z"
+    },
+    {
+      "id": "special_1791941921148",
+      "title": "Red Dog Bar & Bistro Piney Creek",
+      "description": "APPETIZERS/SALADS\nPORK PAZOLE SOUP\nHearty soup with hominy and tender pork in a mild red shile sauce, garnished with crunchy fresh toppings...10\nCATFISH BITES\nBite-sized pieces of catfish coated in a seasoned corn-meal flour crust, fried until golden brown, with Cajun tartar sauce...14\nHARVEST APPLE SALAD\nMixed greens topped with crispy diced apples, roasted sweet potatoes, carrots, candied pecans, Craisans, red onion and tangy feta cheese, drizzled with a lemony maple Dijon dressing...12\nAdd protein! Chicken ... 7 Shrimp ...8 Salmon... 12 Tofu... 5\n\nMAINS\nSTICKY PORK BELLY\nChinese pork dish featuring crispy pork belly coated in a sweet, savory, sticky glaze, served with sticky rice and steamed bok choy...24\nМАНІ MAHI WITH MANGO PINEAPPLE SALSA\nBlackened, pan seared, Mahi Mabi topped with mango-pineapple salsa on a bed of black beans and rice drizzled with Jalapeno cream sauce...25\n\nLUNCH (Friday, Saturday, Sunday 11 AM-3 PM ONLY)\nFRENCH ONION BURGER\nFrench onion flavored burger, provotone cheese, garlic aioli and crispy onion rings, with a side of warm French onion-beef jus for dipping, with fries... 13\nSHRIMP TACOS\nSmoky chipotle shrimp, shredded cabbage.red onion, mango-pineapple salsa.\nCilantro and Jalapeno Cream sauce on the corn tortillas...16\nDESSERT\nOld fashioned bread pudding with brown sugar butter drizzle...10",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-18",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-10-14T01:38:41.149Z"
     }
   ],
-  "last_updated": "2026-10-07T01:30:16.599Z"
+  "last_updated": "2026-10-14T01:38:41.149Z"
 }
