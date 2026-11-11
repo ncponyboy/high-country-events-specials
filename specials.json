@@ -14,7 +14,22 @@
       "image_url": "",
       "priority": 1,
       "created_at": "2026-11-04T02:19:51.026Z"
+    },
+    {
+      "id": "special_1794360673341",
+      "title": "Red Dog Bar & Bistro Piney Creek",
+      "description": "Appetizer / Soup\nHot Pepper Jelly Cheesy Dip - This savory dish combines bacon, gruyere cheese, and cream cheese, topped with hot pepper jelly ... 14\nLoaded Potato Soup - Rich potato soup simmered with garlic, onions, and heavy cream, topped with sour cream, cheddar cheese, smoky bacon and chives .... 6 cup ... 8 bowl\nEntrées\nBlackened Catfish with Shrimp Creole Sauce over Black Beans & Rice - Blackened catfish fillet on seasoned black beans and rice, topped with a rich and zesty shrimp filled Creole sauce. Served with garlic bread ... 29\nRibeye Steak Bowl - Juicy slices of seasoned, seared ribeye steak, peppers and onions, served over a bowl of black beans and rice, topped with guacamole, pico de gallo, cheese and jalapeño cream sauce ... 26\nDessert\nCarrot Cake - Soft and tender cake baked with sweet carrots, aromatic spices, and chopped pecans, topped with a thick, housemade cream cheese icing... 10\nLUNCH SPECIAL\nFriday, Saturday, Sunday 11 AM-3 PM\nMike's Hot Honey Buffalo Chicken Mac and Cheese Bowl - Bowl of creamy, cheesy, macaroni topped with our deep fried, crispy, tender chicken breast. Drizzled with Mike's Hot Honey and Buffalo sauce...14, or with plain fried chicken breast ...13",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-15",
+      "restaurant_name": "Reddog Piney Creek",
+      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
+      "restaurant_phone": "(336) 359-8000",
+      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
+      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
+      "image_url": "",
+      "priority": 1,
+      "created_at": "2026-11-11T01:31:13.341Z"
     }
   ],
-  "last_updated": "2026-11-04T02:20:06.739Z"
+  "last_updated": "2026-11-11T01:31:13.341Z"
 }
