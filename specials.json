@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1794360673341",
-      "title": "Red Dog Bar & Bistro Piney Creek",
-      "description": "Appetizer / Soup\nHot Pepper Jelly Cheesy Dip - This savory dish combines bacon, gruyere cheese, and cream cheese, topped with hot pepper jelly ... 14\nLoaded Potato Soup - Rich potato soup simmered with garlic, onions, and heavy cream, topped with sour cream, cheddar cheese, smoky bacon and chives .... 6 cup ... 8 bowl\nEntrées\nBlackened Catfish with Shrimp Creole Sauce over Black Beans & Rice - Blackened catfish fillet on seasoned black beans and rice, topped with a rich and zesty shrimp filled Creole sauce. Served with garlic bread ... 29\nRibeye Steak Bowl - Juicy slices of seasoned, seared ribeye steak, peppers and onions, served over a bowl of black beans and rice, topped with guacamole, pico de gallo, cheese and jalapeño cream sauce ... 26\nDessert\nCarrot Cake - Soft and tender cake baked with sweet carrots, aromatic spices, and chopped pecans, topped with a thick, housemade cream cheese icing... 10\nLUNCH SPECIAL\nFriday, Saturday, Sunday 11 AM-3 PM\nMike's Hot Honey Buffalo Chicken Mac and Cheese Bowl - Bowl of creamy, cheesy, macaroni topped with our deep fried, crispy, tender chicken breast. Drizzled with Mike's Hot Honey and Buffalo sauce...14, or with plain fried chicken breast ...13",
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-15",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–9pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-11-11T01:31:13.341Z"
-    },
-    {
       "id": "special_1794968858461",
       "title": "Red Dog Bar & Bistro Piney Creek",
       "description": "Appetizer / Soup\nBaked Brie - Rich brie cheese wheel, baked to warm and gooey, decked out with toasted pecans, fresh thyme then drizzled with honey. Served with sliced apples and pita rounds ... 15\n\nChicken Tortilla Soup - Rich tomato & chicken broth, full of tender shredded chicken, corn and beans. Topped with shredded cheese, sour cream, sliced jalapeños and crispy tortilla strips... 6 cup ... 8 bowl\n\nEntrées\n\nMike's Hot Honey Buffalo Chicken Mac and Cheese Bowl - Bowl of creamy, cheesy, macaroni topped with our deep fried, crispy, brined, tender chicken breast. Drizzled with Buffalo sauce and Mike's Hot Honey, then finished with bleu cheese crumbles ... 16 (Option: plain fried chicken or grilled chicken)\n\nFajita Steak Bowl - Juicy slices of seasoned, seared steak, peppers and onions, served over a bowl of black beans and rice, topped with guacamole, pico de gallo and jalapeño cream sauce ... 26\n\nBubba's Shrimp Bowl - Shrimp, pan seared in our smoky, chipotle Bubba's sauce, served over a bowl of black beans and rice. Garnished with shredded cabbage, pineapple mango salsa and jalapeño cream sauce ... 24\n\nDessert\nCarrot Cake - Soft and tender cake baked with sweet carrots, aromatic spices, and chopped pecans, and topped with a thick, housemade cream cheese icing ... 10\n\nLUNCH SPECIAL: Friday, Saturday, Sunday 11 AM-3 PM\nChicken Quesadilla and Cup of Tortilla Soup - A classic quesadilla with warm, melted cheese, seasoned chicken and pico de gallo folded inside a toasted flour tortilla. Served with a cup of tortilla soup... 12",
@@ -31,5 +16,5 @@
       "created_at": "2026-11-18T02:27:38.461Z"
     }
   ],
-  "last_updated": "2026-11-18T02:27:38.462Z"
+  "last_updated": "2026-11-18T02:27:47.579Z"
 }
