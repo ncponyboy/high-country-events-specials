@@ -1,21 +1,6 @@
 {
   "specials": [
     {
-      "id": "special_1794968858461",
-      "title": "Red Dog Bar & Bistro Piney Creek",
-      "description": "Appetizer / Soup\nBaked Brie - Rich brie cheese wheel, baked to warm and gooey, decked out with toasted pecans, fresh thyme then drizzled with honey. Served with sliced apples and pita rounds ... 15\n\nChicken Tortilla Soup - Rich tomato & chicken broth, full of tender shredded chicken, corn and beans. Topped with shredded cheese, sour cream, sliced jalapeños and crispy tortilla strips... 6 cup ... 8 bowl\n\nEntrées\n\nMike's Hot Honey Buffalo Chicken Mac and Cheese Bowl - Bowl of creamy, cheesy, macaroni topped with our deep fried, crispy, brined, tender chicken breast. Drizzled with Buffalo sauce and Mike's Hot Honey, then finished with bleu cheese crumbles ... 16 (Option: plain fried chicken or grilled chicken)\n\nFajita Steak Bowl - Juicy slices of seasoned, seared steak, peppers and onions, served over a bowl of black beans and rice, topped with guacamole, pico de gallo and jalapeño cream sauce ... 26\n\nBubba's Shrimp Bowl - Shrimp, pan seared in our smoky, chipotle Bubba's sauce, served over a bowl of black beans and rice. Garnished with shredded cabbage, pineapple mango salsa and jalapeño cream sauce ... 24\n\nDessert\nCarrot Cake - Soft and tender cake baked with sweet carrots, aromatic spices, and chopped pecans, and topped with a thick, housemade cream cheese icing ... 10\n\nLUNCH SPECIAL: Friday, Saturday, Sunday 11 AM-3 PM\nChicken Quesadilla and Cup of Tortilla Soup - A classic quesadilla with warm, melted cheese, seasoned chicken and pico de gallo folded inside a toasted flour tortilla. Served with a cup of tortilla soup... 12",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-22",
-      "restaurant_name": "Reddog Piney Creek",
-      "restaurant_address": "9531 NC Highway 93, Piney Creek, NC 28663",
-      "restaurant_phone": "(336) 359-8000",
-      "restaurant_website": "https://www.reddognc.com/piney-creek-location.php",
-      "restaurant_hours": "Wed & Thu 4–8pm · Fri 11am–9pm · Sun 11am–3pm",
-      "image_url": "",
-      "priority": 1,
-      "created_at": "2026-11-18T02:27:38.461Z"
-    },
-    {
       "id": "special_1795572725927",
       "title": "Red Dog Bar & Bistro Piney Creek Specials",
       "description": "Appetizer / Salad / Soup\nCranberry Jalapeño Cream Cheese Dip - Fresh\ncranberries, jalapeños, cilantro, green onions, and\ncitrus over rich, warm cream cheese. Served with pita\nchips …15\nMediterranean Chickpea Salad - Chickpeas, fresh\ntomatoes, crisp cucumber, bell pepper, red onion,\nfeta, parsley, over mixed greens with our lemon herb\nvinaigrette…12\nAdd a protein!\nChicken ... 7 Shrimp ... 8 Salmon ... 12 Tofu ... 5\nChicken & Dumpling Soup - Housemade, loaded\nwith tender chicken and drop dumplings in a creamy\nbroth loaded with vegetables ... 6 cup…8 bowl\nEntrées\nShrimp or Chicken alla Vodka - Our creamy tomato-\nbased sauce with a splash of vodka to unlock the\nflavors, tossed with penne pasta and juicy shrimp or\nchicken. Served with garlic bread.\nShrimp … 28 Chicken…24\nClams and Linguine in White Wine Sauce - Tender\nlinguine tossed in a savory broth of olive oil, garlic,\nwhite wine, lemon, herbs, and in-shell clams. Served\nwith garlic bread for dipping … 28\nDessert\nChocolate Indulgence - Layered cream cheese and\nchocolate pudding dessert over a buttery pecan\ncrust. It’s AMAZING!! ... 10\nLUNCH SPECIAL\nFriday, Saturday, Sunday 11 AM-3 PM\nKyler’s Jalapeño Onion Smashburger - Pepper jack\ncheese, onion jalapeño jam, lettuce, tomato, Red\nDog burger sauce on a toasted brioche bun with\nfries ...16\n\nCLOSED ON THANKSGIVING!",
@@ -31,5 +16,5 @@
       "created_at": "2026-11-25T02:12:05.928Z"
     }
   ],
-  "last_updated": "2026-11-25T02:12:05.929Z"
+  "last_updated": "2026-11-25T02:12:11.806Z"
 }
